@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="malls">Malls</string>
+    <string name="safari_waterpark">Safari And Water Park</string>
+    <string name="market_suke">Suke And Markets</string>
+    <string name="hotel">Hotels</string>
+    <string name="address_hotel_title">Address Hotel</string>
+    <string name="address_hotel_address">Sheikh Mohammed bin Rashid Blvd - Dubai - United Arab Emirates"</string>
+    <string name="place">place</string>
+
+    <!-- hotels strings -->
+    <string name="address">address</string>
+    <string name="buj_al_arab_title">Burj Al Arab Hotel</string>
+    <string name="buj_al_arab_address">Jumeirah St - Dubai - United Arab Emirates</string>
+    <string name="burj_kalifa_title">Burj Kalifa</string>
+    <string name="burj_kelifa_address">1 Sheikh Mohammed bin Rashid Blvd - Dubai - United Arab Emirates"</string>
+    <string name="place_downtown_title">Place Downtown Hotel</string>
+    <string name="place_downtown_address">Sheikh Mohammed Bin Rashed Boulevard, Downtown Dubai 9770 - Dubai - United Arab Emirates"</string>
+    <string name="radisson_blue_title">Radisson Blue</string>
+    <string name="radisson_blue_address">Sheikh Mohammed Bin Rashed Boulevard, Downtown Dubai,9770 - Dubai - United Arab Emirates</string>
+
+    <!-- malls string -->
+    <string name="al_ghurair_title">Al Ghurair Centre</string>
+    <string name="al_ghurair_address">Rigga Street - Dubai - United Arab Emirates</string>
+
+    <string name="batuta_title">Ibn Battuta Mall</string>
+    <string name="batuta_address">Sheikh Zayed Rd - Dubai - United Arab Emirates</string>
+
+    <string name="burjuman_title">BurJuman</string>
+    <string name="burjuman_address">Khalid Bin Al Waleed Rd - Dubai - United Arab Emirates</string>
+
+    <string name="city_center_title">City Center</string>
+    <string name="city_center_address">8th St - Dubai - United Arab Emirates</string>
+
+    <string name="emirates_mall_title">Mall of the Emirates</string>
+    <string name="emirates_mall_address">Dubai - United Arab Emirates</string>
+
+    <!-- markets -->
+
+    <string name="bur_dubai_suke_title">Bur Dubai Souk</string>
+    <string name="bur_dubai_suk_address">Bur Dubai - Dubai - United Arab Emirates</string>
+
+    <string name="dubai_gold_suk_title">Dubai Gold Souk</string>
+    <string name="dubai_gold_suk_address">Dera Dubai - United Arab Emirates</string>
+
+    <string name="textile_suk_title">Textile Souk</string>
+    <string name="textile_suk_address">57, Opposite to Abra, Ali Bin Abi Talib Street, Bur Dubai - United Arab Emirates</string>
+
+    <string name="souk_medinati_jumera_title">Souk Madinat Jumeirah</string>
+    <string name="souk_medinati_jumera_address">Al Sufouh Rd - United Arab Emirates</string>
+
+    <string name="dubai_spice_market_title">Dubai Spice Souk</string>
+    <string name="dubai_spice_market_address">26 34 St - Dubai - United Arab Emirates</string>
+
+    <!--safari and water park -->
+    <string name="atlantis_title">Atlantis, The Palm</string>
+    <string name="atlantis_address">Crescent Rd - Dubai - United Arab Emirates</string>
+
+    <string name="dubai_safari_park_title">Dubai Safari Park</string>
+    <string name="dubai_safari_park_address">Al Warqa 5 - Dubai - United Arab Emirates</string>
+
+    <string name="jbr_title">JBR</string>
+    <string name="jbr_address">Opposite JBR, Dubai Marina - United Arab Emirates</string>
+
+    <string name="jumera_title">Jumeirah Beach</string>
+    <string name="jumera_address">Jumerah Dubai - United Arab Emirates</string>
+
+    <string name="wild_wadi_title">Wild Wadi Water Park</string>
+    <string name="wild_wadi_address">Jumeirah Street, Opp. Burj Al Arab، Jumeirah 2 - Dubai - United Arab Emirates</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
